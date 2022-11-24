@@ -1,3 +1,5 @@
+package models;
+
 public class Vehicle {
 
     private String brand;
